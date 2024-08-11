@@ -1,6 +1,6 @@
-# House Price Prediction with `Random Forest`
+# House Price Prediction with Random Forest
 
-This project involves predicting house prices using a `RandomForestRegressor` modelto predict house prices based on features like living area, floor space, year built, and overall quality.. The dataset used is from a Kaggle competition. The project includes data preprocessing with pandas, feature scaling, and model evaluation using R-squared. The final predictions are saved to a CSV file for submission.
+This project involves predicting house prices using a `RandomForestRegressor` model to predict house prices based on features like living area, floor space, year built, and overall quality.. The dataset used is from a Kaggle competition. The project includes data preprocessing with pandas, feature scaling, and model evaluation using R-squared. The final predictions are saved to a CSV file for submission.
 
 ## Project Overview
 
